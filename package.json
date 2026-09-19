@@ -1,0 +1,16 @@
+{
+  "name": "fullstack-capstone-project",
+  "version": "1.0.0",
+  "description": "Full Stack Capstone Project with MongoDB",
+  "main": "db.js",
+  "scripts": {
+    "start": "node db.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mongodb", "fullstack", "capstone"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
+}
